@@ -1,6 +1,6 @@
 # Contributers
 * Mohamed El-Melegy
-* Omar Khaled Mahmoud Safwat
+* Omar Safwat
 
 # Executive Summary 
 In this project we build a neural machine translation model with an RNN architecture, using LSTM. The project is built with Keras, a TensorFlow API, on a dataset that provides translation from the English language to Spanish.
